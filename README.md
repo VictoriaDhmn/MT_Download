@@ -3,9 +3,9 @@ Follow the instructions labelled with 'TODO'
 
 # Overview:
 
---- DOWNLOAD --------------------------------------------------------------\\
-Step 0: set up the environment i.e. all filepaths
-Step 1: download the WP and SL data (WP=waypoints, SL=storyline)       
+--- DOWNLOAD --------------------------------------------------------------__
+Step 0: set up the environment i.e. all filepaths__
+Step 1: download the WP and SL data (WP=waypoints, SL=storyline)__
 
 --- PROCESS ---------------------------------------------------------------
 Step 2: convert the gzip files to csv                                  
