@@ -1,7 +1,7 @@
 Python Jupyter Notebook
 Follow the instructions labelled with 'TODO'
 
-# Overview:
+### Overview:
 
 --- DOWNLOAD -------------------------------------------------------------- <br/>
 Step 0: set up the environment i.e. all filepaths <br/>
@@ -17,9 +17,7 @@ Step 5: upload WP to PostgreSQL database, then delete the WP csv files     <br/>
 Step 6: upload SL to PostgreSQL database, then delete the SL csv files     <br/>      
 Step 7: run processing pipeline
 
----------------------------------------------------------------------------
-
-# Folder structure:
+### Folder structure:
 
 MT_MoLe_tmp (root)       <br/>
 ├── new_waypoints         (new downloaded waypoints - first as gz, then as csv, then deleted) <br/>
