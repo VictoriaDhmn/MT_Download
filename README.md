@@ -1,5 +1,5 @@
-Python Jupyter Notebook
-Follow the instructions labelled with 'TODO'
+Purpose: download storyline and/or waypoint data from MT platform. Optional: process data and upload to a PostgreSQL database.<br/>
+Python Jupyter Notebook. Follow the instructions labelled with 'TODO'
 
 ## Overview:
 
