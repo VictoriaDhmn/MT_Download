@@ -15,7 +15,7 @@ Step 4: split the WP csv files into separate days                           <br/
 --- UPLOAD ----------------------------------------------------------------<br/>
 Step 5: upload WP to PostgreSQL database, then delete the WP csv files     <br/>                                                             
 Step 6: upload SL to PostgreSQL database, then delete the SL csv files     <br/>      
-Step 7: run processing pipeline
+Step 7: run processing pipeline                                            <br/>
 
 ## Folder structure:
 
