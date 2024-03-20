@@ -3,7 +3,7 @@ Follow the instructions labelled with 'TODO'
 
 # Overview:
 
---- DOWNLOAD --------------------------------------------------------------
+--- DOWNLOAD --------------------------------------------------------------\n
 Step 0: set up the environment i.e. all filepaths
 Step 1: download the WP and SL data (WP=waypoints, SL=storyline)       
 
