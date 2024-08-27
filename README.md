@@ -1,4 +1,4 @@
-Purpose: download storyline and/or waypoint data from MT platform. Optional: process data and upload to a PostgreSQL database.<br/><br/>
+Purpose: download storyline and/or waypoint data from MotionTag platform. Optional: process data and upload to a PostgreSQL database.<br/><br/>
 Python Jupyter Notebook. Follow the instructions labelled with 'TODO'
 
 ## Overview:
